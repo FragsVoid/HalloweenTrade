@@ -1,0 +1,9 @@
+shop-menu:
+  '0':
+    item: key or material
+    limit: 3
+    loreadditive:
+      - ""
+      - "&6Haz click para comprar"
+    requirements:
+      - candy,16

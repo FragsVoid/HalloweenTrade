@@ -1,0 +1,11 @@
+name: HalloweenTrade
+version: '1.0'
+main: org.frags.halloweenTrade.HalloweenTrade
+api-version: '1.20'
+commands:
+  halloopen:
+    description: opens menu
+  halloimport:
+    description: imports item
+  halloreload:
+    description: reload
